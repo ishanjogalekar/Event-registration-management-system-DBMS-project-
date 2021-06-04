@@ -2,3 +2,4 @@ Add frontend part in web folder of java servlet web project.
 There is only one css file for all HTMLs.
 You can add another css files , but change the link to HTMLs files.
 Some images are used from web directly.
+index.html is first page.
