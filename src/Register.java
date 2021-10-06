@@ -54,23 +54,7 @@ public class Register extends HttpServlet{
                  
                  
             }catch(Exception exe){System.out.println("Exception caught");}
-         
-     
-         
- 
    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     }
 }
     
