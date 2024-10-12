@@ -1,3 +1,0 @@
-Use java files as servlet in project.
-Don't forget to add dependencies in web.xml file.
-Don't include this file in project.
